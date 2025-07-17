@@ -1,0 +1,14 @@
+.homepage {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.homepage h1 {
+  color: #333;
+}
+
+.homepage p {
+  color: #666;
+}
